@@ -23,12 +23,6 @@
             <version>5.15.0</version>
         </dependency>
         <dependency>
-            <groupId>org.fusesource.stompjms</groupId>
-            <artifactId>stompjms-client</artifactId>
-            <version>1.19</version>
-        </dependency>
-
-        <dependency>
             <groupId>junit</groupId>
             <artifactId>junit</artifactId>
             <version>4.12</version>
